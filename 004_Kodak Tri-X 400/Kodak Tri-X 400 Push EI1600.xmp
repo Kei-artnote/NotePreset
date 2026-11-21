@@ -1,0 +1,18 @@
+<x:xmpmeta xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 7.0-c000 1.000000, 0000/00/00-00:00:00">
+ <rdf:RDF>
+ <rdf:Description rdf:about="" crs:PresetType="Normal" crs:Cluster="" crs:UUID="FB15045FCB09420A8E5D14F4E64BE7BD" crs:SupportsAmount="True" crs:SupportsColor="True" crs:SupportsMonochrome="True" crs:SupportsHighDynamicRange="True" crs:SupportsNormalDynamicRange="True" crs:SupportsSceneReferred="True" crs:SupportsOutputReferred="True" crs:RequiresRenditionBehavior="True" crs:Name="Kodak Tri-X 400 Push EI1600" crs:Treatment="Monochrome" crs:ProcessVersion="15.4" crs:HasSettings="True" crs:ConvertToGrayscale="True"
+ crs:Sharpness="45" crs:SharpenRadius="+1.0" crs:SharpenDetail="35" crs:SharpenEdgeMasking="25" crs:LuminanceSmoothing="0"
+ crs:Contrast2012="+40" crs:Highlights2012="-25" crs:Shadows2012="+5" crs:Whites2012="+20" crs:Blacks2012="-45" crs:Texture="+8" crs:Clarity2012="+12"
+ crs:GrainAmount="75" crs:GrainSize="36" crs:GrainRoughness="70"
+ crs:GrayMixerRed="+25" crs:GrayMixerOrange="+20" crs:GrayMixerYellow="+5" crs:GrayMixerGreen="-15" crs:GrayMixerAqua="-10" crs:GrayMixerBlue="-35" crs:GrayMixerPurple="+0" crs:GrayMixerMagenta="+0">
+ <crs:Name><rdf:Alt><rdf:li xml:lang="x-default">Kodak Tri-X 400 Push EI1600</rdf:li></rdf:Alt></crs:Name>
+ <crs:Group><rdf:Alt><rdf:li xml:lang="x-default">Black White</rdf:li></rdf:Alt></crs:Group>
+ <crs:Look>
+ <rdf:Description crs:Name="Adobe Monochrome" crs:Amount="1.000000" crs:UUID="0C09521111114111B1115456789ABCDE" crs:SupportsAmount="True" crs:SupportsMonochrome="True" crs:SupportsOutputReferred="True">
+ <crs:Group><rdf:Alt><rdf:li xml:lang="x-default">Profiles</rdf:li></rdf:Alt></crs:Group>
+ </rdf:Description>
+ </crs:Look>
+ <crs:ToneCurvePV2012><rdf:Seq><rdf:li>0, 0</rdf:li><rdf:li>40, 28</rdf:li><rdf:li>128, 132</rdf:li><rdf:li>215, 230</rdf:li><rdf:li>255, 255</rdf:li></rdf:Seq></crs:ToneCurvePV2012>
+ </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

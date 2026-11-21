@@ -1,0 +1,14 @@
+<x:xmpmeta xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 7.0-c000 1.000000, 0000/00/00-00:00:00">
+ <rdf:RDF>
+ <rdf:Description rdf:about="" crs:PresetType="Normal" crs:Cluster="" crs:UUID="A1B2C3D4E5F64718A9B0C1D2E3F40104" crs:SupportsAmount="True" crs:SupportsColor="True" crs:SupportsMonochrome="True" crs:SupportsHighDynamicRange="True" crs:SupportsNormalDynamicRange="True" crs:SupportsSceneReferred="True" crs:SupportsOutputReferred="True" crs:RequiresRenditionBehavior="True" crs:Name="TRI-X 400 Hard Flash" crs:Treatment="Color" crs:ProcessVersion="15.4" crs:HasSettings="True"
+ crs:Saturation="-100"
+ crs:Sharpness="35" crs:SharpenRadius="+1.0" crs:SharpenDetail="30" crs:SharpenEdgeMasking="20" crs:LuminanceSmoothing="0"
+ crs:Contrast2012="+50" crs:Highlights2012="+10" crs:Shadows2012="-5" crs:Whites2012="+30" crs:Blacks2012="-45" crs:Texture="+5" crs:Clarity2012="+8"
+ crs:GrainAmount="45" crs:GrainSize="25" crs:GrainRoughness="50"
+ crs:LuminanceAdjustmentRed="+20" crs:LuminanceAdjustmentOrange="+15" crs:LuminanceAdjustmentYellow="+5" crs:LuminanceAdjustmentGreen="-10" crs:LuminanceAdjustmentAqua="-5" crs:LuminanceAdjustmentBlue="-20" crs:LuminanceAdjustmentPurple="+0" crs:LuminanceAdjustmentMagenta="+0">
+ <crs:Name><rdf:Alt><rdf:li xml:lang="x-default">TRI-X 400 Hard Flash</rdf:li></rdf:Alt></crs:Name>
+ <crs:Group><rdf:Alt><rdf:li xml:lang="x-default">Black White</rdf:li></rdf:Alt></crs:Group>
+ <crs:ToneCurvePV2012><rdf:Seq><rdf:li>0, 0</rdf:li><rdf:li>50, 34</rdf:li><rdf:li>128, 128</rdf:li><rdf:li>205, 226</rdf:li><rdf:li>255, 255</rdf:li></rdf:Seq></crs:ToneCurvePV2012>
+ </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

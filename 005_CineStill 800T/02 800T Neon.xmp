@@ -1,0 +1,169 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 7.0-c000 1.000000, 0000/00/00-00:00:00        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   crs:PresetType="Normal"
+   crs:Cluster=""
+   crs:UUID="9C8AD1849E5A43658EB9CF65DAE6C196"
+   crs:SupportsAmount="True"
+   crs:SupportsColor="True"
+   crs:SupportsMonochrome="True"
+   crs:SupportsHighDynamicRange="True"
+   crs:SupportsNormalDynamicRange="True"
+   crs:SupportsSceneReferred="True"
+   crs:SupportsOutputReferred="True"
+   crs:CameraModelRestriction=""
+   crs:Copyright=""
+   crs:ContactInfo=""
+   crs:Version="15.4"
+   crs:ProcessVersion="11.0"
+   crs:Exposure2012="0.00"
+   crs:Contrast2012="+18"
+   crs:Highlights2012="-28"
+   crs:Shadows2012="+12"
+   crs:Whites2012="+8"
+   crs:Blacks2012="-14"
+   crs:Clarity2012="-4"
+   crs:Dehaze="+4"
+   crs:Saturation="+4"
+   crs:Vibrance="+10"
+   crs:ParametricShadows="0"
+   crs:ParametricDarks="0"
+   crs:ParametricLights="0"
+   crs:ParametricHighlights="0"
+   crs:ParametricShadowSplit="25"
+   crs:ParametricMidtoneSplit="50"
+   crs:ParametricHighlightSplit="75"
+   crs:HueAdjustmentRed="0"
+   crs:SaturationAdjustmentRed="+20"
+   crs:LuminanceAdjustmentRed="+4"
+   crs:HueAdjustmentOrange="-4"
+   crs:SaturationAdjustmentOrange="+15"
+   crs:LuminanceAdjustmentOrange="+6"
+   crs:HueAdjustmentYellow="-5"
+   crs:SaturationAdjustmentYellow="-5"
+   crs:LuminanceAdjustmentYellow="0"
+   crs:HueAdjustmentGreen="-20"
+   crs:SaturationAdjustmentGreen="-20"
+   crs:LuminanceAdjustmentGreen="-8"
+   crs:HueAdjustmentAqua="-5"
+   crs:SaturationAdjustmentAqua="-5"
+   crs:LuminanceAdjustmentAqua="-4"
+   crs:HueAdjustmentBlue="+12"
+   crs:SaturationAdjustmentBlue="+8"
+   crs:LuminanceAdjustmentBlue="0"
+   crs:HueAdjustmentPurple="0"
+   crs:SaturationAdjustmentPurple="+12"
+   crs:LuminanceAdjustmentPurple="+4"
+   crs:HueAdjustmentMagenta="0"
+   crs:SaturationAdjustmentMagenta="+25"
+   crs:LuminanceAdjustmentMagenta="+6"
+   crs:SplitToningShadowHue="255"
+   crs:SplitToningShadowSaturation="30"
+   crs:SplitToningHighlightHue="20"
+   crs:SplitToningHighlightSaturation="28"
+   crs:SplitToningBalance="0"
+   crs:ColorGradeMidtoneHue="250"
+   crs:ColorGradeMidtoneSat="6"
+   crs:ColorGradeMidtoneLum="0"
+   crs:ColorGradeShadowLum="0"
+   crs:ColorGradeHighlightLum="0"
+   crs:ColorGradeBlending="55"
+   crs:ColorGradeGlobalHue="0"
+   crs:ColorGradeGlobalSat="0"
+   crs:ColorGradeGlobalLum="0"
+   crs:GrainAmount="38"
+   crs:GrainSize="35"
+   crs:GrainFrequency="60"
+   crs:Sharpness="35"
+   crs:SharpenRadius="+1.0"
+   crs:SharpenDetail="25"
+   crs:SharpenEdgeMasking="30"
+   crs:LuminanceSmoothing="5"
+   crs:LuminanceNoiseReductionDetail="50"
+   crs:LuminanceNoiseReductionContrast="0"
+   crs:ColorNoiseReduction="25"
+   crs:ColorNoiseReductionDetail="50"
+   crs:ColorNoiseReductionSmoothness="50"
+   crs:PostCropVignetteAmount="0"
+   crs:OverrideLookVignette="False"
+   crs:ToneCurveName2012="Custom"
+   crs:HasSettings="True">
+   <crs:Name>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">02 800T Neon</rdf:li>
+    </rdf:Alt>
+   </crs:Name>
+   <crs:ShortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:ShortName>
+   <crs:SortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">02 800T Neon</rdf:li>
+    </rdf:Alt>
+   </crs:SortName>
+   <crs:Group>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">フィルム風</rdf:li>
+    </rdf:Alt>
+   </crs:Group>
+   <crs:Description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">赤・マゼンタ・オレンジを強調してネオンの存在感を高める。暗部は青紫寄り、コントラストやや強め。夜の繁華街・イルミネーション向け。</rdf:li>
+    </rdf:Alt>
+   </crs:Description>
+   <crs:ToneCurvePV2012>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>40, 34</rdf:li>
+     <rdf:li>88, 80</rdf:li>
+     <rdf:li>128, 130</rdf:li>
+     <rdf:li>180, 192</rdf:li>
+     <rdf:li>255, 252</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012>
+   <crs:ToneCurvePV2012Red>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>48, 48</rdf:li>
+     <rdf:li>128, 128</rdf:li>
+     <rdf:li>200, 212</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Red>
+   <crs:ToneCurvePV2012Green>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>48, 46</rdf:li>
+     <rdf:li>255, 250</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Green>
+   <crs:ToneCurvePV2012Blue>
+    <rdf:Seq>
+     <rdf:li>0, 3</rdf:li>
+     <rdf:li>48, 58</rdf:li>
+     <rdf:li>200, 190</rdf:li>
+     <rdf:li>255, 246</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Blue>
+   <crs:Look>
+    <rdf:Description
+     crs:Name="Adobe Color"
+     crs:Amount="1.000000"
+     crs:UUID="B952C231111CD8E0ECCF14B86BAA7077"
+     crs:SupportsAmount="false"
+     crs:SupportsMonochrome="false"
+     crs:SupportsOutputReferred="false"
+     crs:Stubbed="true">
+    <crs:Group>
+     <rdf:Alt>
+      <rdf:li xml:lang="x-default">Profiles</rdf:li>
+     </rdf:Alt>
+    </crs:Group>
+    </rdf:Description>
+   </crs:Look>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

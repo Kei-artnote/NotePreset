@@ -1,0 +1,14 @@
+<x:xmpmeta xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 7.0-c000 1.000000, 0000/00/00-00:00:00">
+ <rdf:RDF>
+ <rdf:Description rdf:about="" crs:PresetType="Normal" crs:Cluster="" crs:UUID="A1B2C3D4E5F64718A9B0C1D2E3F40108" crs:SupportsAmount="True" crs:SupportsColor="True" crs:SupportsMonochrome="True" crs:SupportsHighDynamicRange="True" crs:SupportsNormalDynamicRange="True" crs:SupportsSceneReferred="True" crs:SupportsOutputReferred="True" crs:RequiresRenditionBehavior="True" crs:Name="TRI-X 400 Red Filter" crs:Treatment="Color" crs:ProcessVersion="15.4" crs:HasSettings="True"
+ crs:Saturation="-100"
+ crs:Sharpness="30" crs:SharpenRadius="+1.0" crs:SharpenDetail="25" crs:SharpenEdgeMasking="15" crs:LuminanceSmoothing="0"
+ crs:Contrast2012="+30" crs:Highlights2012="-20" crs:Shadows2012="+15" crs:Whites2012="+10" crs:Blacks2012="-20" crs:Texture="+5" crs:Clarity2012="+10" crs:Dehaze="+8"
+ crs:GrainAmount="30" crs:GrainSize="28" crs:GrainRoughness="50"
+ crs:LuminanceAdjustmentRed="+60" crs:LuminanceAdjustmentOrange="+45" crs:LuminanceAdjustmentYellow="+15" crs:LuminanceAdjustmentGreen="-30" crs:LuminanceAdjustmentAqua="-50" crs:LuminanceAdjustmentBlue="-70" crs:LuminanceAdjustmentPurple="-40" crs:LuminanceAdjustmentMagenta="-10">
+ <crs:Name><rdf:Alt><rdf:li xml:lang="x-default">TRI-X 400 Red Filter</rdf:li></rdf:Alt></crs:Name>
+ <crs:Group><rdf:Alt><rdf:li xml:lang="x-default">Black White</rdf:li></rdf:Alt></crs:Group>
+ <crs:ToneCurvePV2012><rdf:Seq><rdf:li>0, 0</rdf:li><rdf:li>64, 58</rdf:li><rdf:li>128, 128</rdf:li><rdf:li>192, 200</rdf:li><rdf:li>255, 255</rdf:li></rdf:Seq></crs:ToneCurvePV2012>
+ </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

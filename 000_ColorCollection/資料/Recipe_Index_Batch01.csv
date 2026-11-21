@@ -1,0 +1,15 @@
+﻿Recipe ID,Name,Category,Printed page,XMP,Extracted parameters,Notes,Status
+001,ブルートーン,Basic,36,Recipe_001_ブルートーン.xmp,ColorGradeHighlightHue=85; ColorGradeHighlightSat=20; ColorGradeShadowHue=360; ColorGradeShadowSat=20; ColorGradeBalance=0; HueAdjustmentRed=10; HueAdjustmentOrange=-25,明暗別色補正とHSLの明記値を反映。WBは数値指定なしのため未設定。,初回抽出・明記値のみ
+002,オレンジトーン,Basic,36,Recipe_002_オレンジトーン.xmp,Saturation=-20,基本補正の彩度のみ数値指定あり。色温度・色相等は未指定のため未設定。,初回抽出・明記値のみ
+003,グリーントーン,Basic,37,Recipe_003_グリーントーン.xmp,ColorGradeHighlightHue=122; ColorGradeHighlightSat=50,ハイライトの明暗別色補正のみ数値指定あり。人物への局所補正は含めない。,初回抽出・明記値のみ
+004,ウォームトーン,Basic,37,Recipe_004_ウォームトーン.xmp,Vibrance=-45; Saturation=-25; ColorGradeHighlightHue=55; ColorGradeHighlightSat=80; ColorGradeShadowHue=55; ColorGradeShadowSat=50; ColorGradeBalance=0,色温度を上げる指示はあるが具体値なし。自動的に数値化せず未設定。,初回抽出・明記値のみ
+005,クールトーン,Basic,37,Recipe_005_クールトーン.xmp,Vibrance=45; Saturation=-15; ColorGradeHighlightHue=195; ColorGradeHighlightSat=25,ハイライトの明暗別色補正と自然な彩度・彩度を反映。,初回抽出・明記値のみ
+006,ソフト,Basic,37,Recipe_006_ソフト.xmp,Exposure2012=0.75; Contrast2012=0; Highlights2012=40; Shadows2012=65; Whites2012=35; Blacks2012=60; Clarity2012=-10; Dehaze=0; Vibrance=20; Saturation=-20; HueAdjustmentRed=5; HueAdjustmentOrange=15; HueAdjustmentYellow=20; HueAdjustmentBlue=-40,基本補正・外観・HSLの画面表示値を反映。,初回抽出・明記値のみ
+007,ハイコントラスト,Basic,38,Recipe_007_ハイコントラスト.xmp,Exposure2012=0.75; Contrast2012=0; Highlights2012=-20; Shadows2012=-25; Whites2012=30; Blacks2012=-55; Clarity2012=75; Dehaze=0; Vibrance=44; Saturation=-20,基本補正・外観の画面表示値を反映。,初回抽出・明記値のみ
+008,ハイキー,Basic,38,Recipe_008_ハイキー.xmp,Exposure2012=0.75; Contrast2012=0; Highlights2012=35; Shadows2012=70; Whites2012=20; Blacks2012=65; Clarity2012=65; Dehaze=0; Vibrance=45; Saturation=-35,基本補正・外観の画面表示値を反映。,初回抽出・明記値のみ
+009,ローキー,Basic,38,Recipe_009_ローキー.xmp,Exposure2012=-0.25; Contrast2012=0; Highlights2012=-100; Shadows2012=-20; Whites2012=-100; Blacks2012=-20; Clarity2012=30; Dehaze=0; Vibrance=-50; Saturation=45; HueAdjustmentRed=30; HueAdjustmentOrange=40; HueAdjustmentYellow=25; HueAdjustmentBlue=-60,基本補正・外観・HSLの画面表示値を反映。,初回抽出・明記値のみ
+010,モノクロ,Basic,38,Recipe_010_モノクロ.xmp,ConvertToGrayscale=True,Adobeモノクロプロファイルを選択する説明。特定バージョン依存を避け、汎用的な白黒変換のみ設定。,初回抽出・明記値のみ
+011,マット調,Variation,39,Recipe_011_マット調.xmp,"ToneCurvePV2012=[(0, 73), (85, 106), (168, 173), (255, 218)]",RGBポイントカーブの表示値を0–255に換算。粒子量は数値指定がないため未設定。,初回抽出・明記値のみ
+012,レトロ調,Variation,39,Recipe_012_レトロ調.xmp,Vibrance=-25; Saturation=-45; ColorGradeHighlightHue=55; ColorGradeHighlightSat=5,色温度を上げる説明はあるが具体値なし。ハイライト色のみ数値設定。,初回抽出・明記値のみ
+013,ブリーチバイパス,Variation,39,Recipe_013_ブリーチバイパス.xmp,Exposure2012=0.55; Contrast2012=30; Highlights2012=30; Shadows2012=0; Whites2012=0; Blacks2012=-10; Clarity2012=80; Dehaze=0; Vibrance=60; Saturation=-60,基本補正・外観の画面表示値を反映。,初回抽出・明記値のみ
+014,クロスプロセス風,Variation,39,Recipe_014_クロスプロセス風.xmp,"ToneCurvePV2012=[(0, 0), (31, 3), (56, 38), (153, 172), (209, 242), (255, 255)]",RGB共通のポイントカーブ。書籍の百分率を0–255に換算。,初回抽出・明記値のみ

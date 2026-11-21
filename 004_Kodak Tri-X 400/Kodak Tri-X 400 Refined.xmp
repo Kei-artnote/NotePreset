@@ -1,0 +1,18 @@
+<x:xmpmeta xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 7.0-c000 1.000000, 0000/00/00-00:00:00">
+ <rdf:RDF>
+ <rdf:Description rdf:about="" crs:PresetType="Normal" crs:Cluster="" crs:UUID="45A00F335C8245338C2655AAA16AA80A" crs:SupportsAmount="True" crs:SupportsColor="True" crs:SupportsMonochrome="True" crs:SupportsHighDynamicRange="True" crs:SupportsNormalDynamicRange="True" crs:SupportsSceneReferred="True" crs:SupportsOutputReferred="True" crs:RequiresRenditionBehavior="True" crs:Name="Kodak Tri-X 400 Refined" crs:Treatment="Monochrome" crs:ProcessVersion="15.4" crs:HasSettings="True" crs:ConvertToGrayscale="True"
+ crs:Sharpness="30" crs:SharpenRadius="+1.0" crs:SharpenDetail="25" crs:SharpenEdgeMasking="15" crs:LuminanceSmoothing="0"
+ crs:Contrast2012="+30" crs:Highlights2012="-14" crs:Shadows2012="+20" crs:Whites2012="+10" crs:Blacks2012="-25" crs:Texture="+0" crs:Clarity2012="+0"
+ crs:GrainAmount="50" crs:GrainSize="30" crs:GrainRoughness="60"
+ crs:GrayMixerRed="+25" crs:GrayMixerOrange="+20" crs:GrayMixerYellow="+5" crs:GrayMixerGreen="-15" crs:GrayMixerAqua="-10" crs:GrayMixerBlue="-35" crs:GrayMixerPurple="+0" crs:GrayMixerMagenta="+0">
+ <crs:Name><rdf:Alt><rdf:li xml:lang="x-default">Kodak Tri-X 400 Refined</rdf:li></rdf:Alt></crs:Name>
+ <crs:Group><rdf:Alt><rdf:li xml:lang="x-default">Black White</rdf:li></rdf:Alt></crs:Group>
+ <crs:Look>
+ <rdf:Description crs:Name="Adobe Monochrome" crs:Amount="1.000000" crs:UUID="0C09521111114111B1115456789ABCDE" crs:SupportsAmount="True" crs:SupportsMonochrome="True" crs:SupportsOutputReferred="True">
+ <crs:Group><rdf:Alt><rdf:li xml:lang="x-default">Profiles</rdf:li></rdf:Alt></crs:Group>
+ </rdf:Description>
+ </crs:Look>
+ <crs:ToneCurvePV2012><rdf:Seq><rdf:li>0, 0</rdf:li><rdf:li>64, 58</rdf:li><rdf:li>128, 128</rdf:li><rdf:li>192, 200</rdf:li><rdf:li>255, 255</rdf:li></rdf:Seq></crs:ToneCurvePV2012>
+ </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
